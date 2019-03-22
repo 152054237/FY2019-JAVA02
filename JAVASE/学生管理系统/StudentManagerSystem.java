@@ -22,7 +22,7 @@ public class StudentManagerSystem{
 		
 		if (operation==1){       //µÇÂ¼
 			login(admins);
-		}
+		}else
 		if (operation==2){       //ÍË³ö
 			System.exit(0);
 		}else{
